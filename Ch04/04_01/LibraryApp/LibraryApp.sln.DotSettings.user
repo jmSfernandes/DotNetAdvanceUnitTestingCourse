@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b813221d_002D6dbb_002D4b6b_002D8882_002Da7ec02426a22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="IndexUnitTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABB78FEE-39AB-4CCA-86C8-402B40C666F0::net7.0::LibraryApp.Test.BooksControllerTests.IndexUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABB78FEE-39AB-4CCA-86C8-402B40C666F0::net7.0::LibraryApp.Test.BooksControllerTests.DetailsUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABB78FEE-39AB-4CCA-86C8-402B40C666F0::net7.0::LibraryApp.Test.BooksControllerTests.DetailsNotFoundUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABB78FEE-39AB-4CCA-86C8-402B40C666F0::net7.0::LibraryApp.Test.BooksControllerTests.CreateUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABB78FEE-39AB-4CCA-86C8-402B40C666F0::net7.0::LibraryApp.Test.BooksControllerTests.CreateInvalidFieldUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABB78FEE-39AB-4CCA-86C8-402B40C666F0::net7.0::LibraryApp.Test.BooksControllerTests.DeleteUnitTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
